@@ -85,6 +85,9 @@ Initially, the app will focus on creating, organizing, and studying flashcards. 
 - Profile -> View progress and access stats.
 - Settings -> Change notifications, study preferences, and accessibility options.
 
+![Alt Text](path/to/your/image)
+![Alt Text](path/to/your/image)
+
 ## Schema
 
 ### Models
