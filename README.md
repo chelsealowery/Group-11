@@ -28,13 +28,13 @@ Initially, the app will focus on creating, organizing, and studying flashcards. 
 ### 1. User Stories (Required and Optional)
 
 #### Required Must-have Stories:
-- User signs up or logs in to access their personal flashcard sets and preferences.
-- Users can create, edit, and delete flashcards and organize them into study sets.
-- Study mode options: Flashcard mode, Quiz mode (multiple choice or fill-in-the-blank), and Matching mode (pair terms and definitions).
-- Progress tracking with visual statistics (study time, accuracy rate, sets completed).
+- User signs up or logs in to access their personal flashcard sets and preferences. (Done)
+- Users can create, edit, and delete flashcards and organize them into study sets. (Done)
+- Study mode options: Flashcard mode, Quiz mode (multiple choice or fill-in-the-blank), and Matching mode (pair terms and definitions). (Done)
+- Progress tracking with visual statistics (study time, accuracy rate, sets completed). (Done)
 - Integration of spaced repetition to optimize long-term retention.
 - Collaboration mode: Users can share flashcard sets with friends or join study groups.
-- Profile pages for each user to track progress and study habits.
+- Profile pages for each user to track progress and study habits. (Done)
 - Settings (Accessibility, Notifications, Study preferences).
 
 #### Optional Nice-to-have Stories:
