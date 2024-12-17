@@ -1,0 +1,6 @@
+com\example\flashcardapp\flashcardappbackend\FlashcardAppApplication.class
+com\example\flashcardapp\flashcardappbackend\Flashcard\Flashcard.class
+com\example\flashcardapp\flashcardappbackend\Flashcard\FlashcardController.class
+com\example\flashcardapp\flashcardappbackend\Flashcard\FlashcardService.class
+com\example\flashcardapp\flashcardappbackend\FlashcardappBackendApplicationTests.class
+com\example\flashcardapp\flashcardappbackend\Flashcard\FlashcardRepository.class
